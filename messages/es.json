@@ -1,0 +1,346 @@
+{
+  "meta": {
+    "title": "StudyOS - Nunca vuelvas a estudiar de la misma manera",
+    "description": "Transforma tu experiencia de aprendizaje con herramientas de estudio impulsadas por IA. Crea notas, tarjetas y cuestionarios al instante."
+  },
+  "header": {
+    "title": "StudyOS",
+    "subtitle": "Nunca vuelvas a estudiar de la misma manera",
+    "description": "Transforma tu experiencia de aprendizaje con herramientas de estudio impulsadas por IA. Crea notas, tarjetas y cuestionarios al instante."
+  },
+  "features": {
+    "title": "Transforma tu aprendizaje con IA",
+    "items": {
+      "upload": {
+        "title": "Subir y Crear",
+        "description": "Simplemente sube fotos, documentos o archivos de galería y ve cómo la IA los transforma al instante en tarjetas inteligentes"
+      },
+      "flashcards": {
+        "title": "Tarjetas Inteligentes",
+        "description": "Tarjetas de estudio impulsadas por IA generadas automáticamente desde tu contenido con conceptos y definiciones clave"
+      },
+      "login": {
+        "title": "Inicio Seguro",
+        "description": "Fácil inicio de sesión con Apple ID o cuenta de Google - tus datos se sincronizan de forma segura en todos los dispositivos"
+      },
+      "account": {
+        "title": "Gestión de Cuenta",
+        "description": "Gestiona tu perfil, rastrea tu progreso de estudio y organiza tus colecciones de tarjetas sin esfuerzo"
+      },
+      "mcq": {
+        "title": "Creación TipoTest",
+        "comingSoon": "PRÓXIMAMENTE",
+        "description": "Las preguntas de opción múltiple se generarán automáticamente desde tu contenido para pruebas y práctica mejoradas"
+      },
+      "summaries": {
+        "title": "Resúmenes Inteligentes",
+        "comingSoon": "PRÓXIMAMENTE",
+        "description": "La IA creará resúmenes concisos y completos de tus documentos y materiales de estudio subidos"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Los estudiantes aman StudyOS",
+    "items": {
+      "sarah": {
+        "text": "Solo subo mis diapositivas de clase y StudyOS crea tarjetas perfectas al instante. ¡Mi tiempo de estudio se redujo a la mitad!",
+        "author": "Sarah M. - Universidad de California"
+      },
+      "mike": {
+        "text": "Tomar una foto de las páginas de mi libro de texto y obtener tarjetas inmediatamente es revolucionario. Perfecto para estudiar a última hora.",
+        "author": "Mike T. - Universidad de Harvard"
+      },
+      "emma": {
+        "text": "El login con Apple ID hace muy fácil acceder a mis tarjetas en cualquier lugar. Puedo estudiar en mi teléfono, iPad y Mac sin problemas.",
+        "author": "Emma L. - Universidad de Stanford"
+      }
+    }
+  },
+  "cta": {
+    "title": "¿Listo para transformar tus estudios?",
+    "description": "Únete a miles de estudiantes que ya han mejorado sus calificaciones con StudyOS"
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Respuestas a preguntas comunes sobre StudyOS",
+    "items": {
+      "what": {
+        "question": "¿Qué es StudyOS?",
+        "answer": "StudyOS es una aplicación de estudio impulsada por IA que transforma tus materiales de aprendizaje en tarjetas de estudio interactivas. Simplemente sube fotos, documentos, PDFs o cualquier material de estudio, y nuestra IA avanzada extrae instantáneamente conceptos clave y crea tarjetas inteligentes para un aprendizaje efectivo."
+      },
+      "how": {
+        "question": "¿Cómo funciona la creación de tarjetas con IA?",
+        "answer": "Nuestra IA analiza tu contenido subido usando algoritmos avanzados de aprendizaje automático para identificar conceptos clave, definiciones, fórmulas y datos importantes. Luego crea tarjetas bien estructuradas con preguntas en un lado y respuestas en el otro."
+      },
+      "pricing": {
+        "question": "¿StudyOS es gratuito? ¿Cuáles son las opciones de precios?",
+        "answer": "StudyOS ofrece planes de suscripción flexibles para adaptarse a tus necesidades de estudio. Elige entre suscripciones semanales, mensuales o anuales con acceso completo a todas las funciones. Puedes cancelar en cualquier momento sin compromiso."
+      },
+      "devices": {
+        "question": "¿Puedo usar StudyOS en varios dispositivos?",
+        "answer": "¡Absolutamente! Con tu login de Apple ID o cuenta de Google, todas tus tarjetas y progreso de estudio se sincronizan automáticamente en todos tus dispositivos."
+      },
+      "accuracy": {
+        "question": "¿Qué tan precisas son las tarjetas generadas por IA?",
+        "answer": "Nuestra IA ha sido entrenada en millones de materiales educativos y alcanza alta precisión en la extracción de información clave. La calidad depende de la claridad de tu contenido subido."
+      },
+      "formats": {
+        "question": "¿Qué formatos de archivo puedo subir?",
+        "answer": "StudyOS actualmente soporta imágenes (JPG, PNG, HEIC) y documentos PDF. Más formatos de archivo como documentos de Word y diapositivas de PowerPoint llegarán pronto!"
+      }
+    }
+  },
+  "privacy": {
+  "meta": {
+    "title": "Política de Privacidad - StudyOS",
+    "description": "Descubre cómo StudyOS protege tu privacidad y gestiona tus datos"
+  },
+  "header": {
+    "title": "Política de Privacidad",
+    "subtitle": "Tu privacidad es importante para nosotros",
+    "backText": "Volver a StudyOS"
+  },
+  "lastUpdated": {
+    "effective": "26 de junio de 2025",
+    "updated": "26 de junio de 2025",
+    "effectiveLabel": "Vigente desde:",
+    "updatedLabel": "Última actualización:"
+  },
+  "sections": {
+    "introduction": {
+      "title": "Introducción",
+      "content": "¡Bienvenido a StudyOS! Esta Política de Privacidad describe cómo recopilamos, usamos y compartimos tu información personal cuando utilizas nuestra aplicación para iOS y los servicios relacionados (colectivamente, \"StudyOS\", también referida como \"StudyOS: Asistente de Estudio con IA\", \"StudyOS Flashcards IA\" o cualquier frase relacionada)."
+    },
+    "whoWeAre": {
+      "title": "Quiénes Somos",
+      "content": "StudyOS es propiedad y está operado por StudyOS, Inc. Somos un equipo dedicado a ofrecer herramientas de estudio innovadoras impulsadas por inteligencia artificial para ayudar a los estudiantes a aprender de forma más eficaz y eficiente."
+    },
+    "informationWeCollect": {
+      "title": "Información que Recopilamos",
+      "studyMaterials": {
+        "title": "1. Materiales y Contenidos de Estudio",
+        "items": [
+          "Archivos Subidos: StudyOS almacena las imágenes, PDFs y otros materiales de estudio que subas para crear flashcards y contenido de estudio.",
+          "Flashcards Generadas: Almacenamos las flashcards, notas y materiales de estudio generados por IA a partir de tu contenido subido para que puedas acceder a ellos en cualquier momento.",
+          "Progreso de Estudio: Registramos tus sesiones de estudio, progreso y rendimiento para ofrecerte información personalizada sobre tu aprendizaje."
+        ]
+      },
+      "accountInfo": {
+        "title": "2. Información de la Cuenta",
+        "items": [
+          "Datos de Autenticación: Cuando inicias sesión con Apple ID o cuenta de Google, recibimos la información básica del perfil que permiten estos servicios.",
+          "Configuración del Perfil: Cualquier preferencia, ajuste o información de perfil que decidas proporcionar dentro de la app."
+        ]
+      },
+      "appFunctionality": {
+        "title": "3. Funcionalidad de la App y Analítica",
+        "items": [
+          "Analítica de Uso: Recopilamos información sobre cómo utilizas StudyOS, incluidas las funciones que usas, el tiempo de estudio y el rendimiento de la app.",
+          "Información del Dispositivo: Información básica del dispositivo necesaria para el funcionamiento y la optimización de la app.",
+          "Informes de Errores: Datos técnicos que nos ayudan a identificar y corregir problemas de la aplicación."
+        ]
+      }
+    },
+    "howWeUseInfo": {
+      "title": "Cómo Usamos tu Información",
+      "items": [
+        "Procesamiento con IA: Tu contenido subido es procesado por nuestros sistemas de inteligencia artificial para generar flashcards, resúmenes y materiales de estudio.",
+        "Sincronización entre Dispositivos: Tus materiales de estudio y progreso se sincronizan entre tus dispositivos cuando has iniciado sesión.",
+        "Personalización: Usamos tus patrones de estudio para ofrecerte recomendaciones personalizadas y optimizar tu experiencia de aprendizaje.",
+        "Mejora del Servicio: La analítica nos ayuda a entender las necesidades de los usuarios y mejorar las funciones y el rendimiento de StudyOS.",
+        "Soporte: Podemos usar tu información para brindarte asistencia al cliente y responder a tus consultas."
+      ]
+    },
+    "thirdPartyServices": {
+      "title": "Servicios de Terceros",
+      "content": "Utilizamos servicios de terceros confiables para respaldar nuestras operaciones, incluidos:",
+      "items": [
+        "Inicio de Sesión con Apple — Política de Privacidad de Apple",
+        "Inicio de Sesión con Google — Política de Privacidad de Google",
+        "RevenueCat (Suscripciones) — Política de Privacidad de RevenueCat",
+        "Servicios de Analítica de Apps — Proveedores de analítica con estándares estrictos de protección de datos"
+      ],
+      "additionalContent": "Estos terceros pueden recopilar y procesar tus datos de acuerdo con sus políticas de privacidad. Nos aseguramos de que todos nuestros socios cumplan con altos estándares de privacidad y seguridad."
+    },
+    "dataSecurity": {
+      "title": "Seguridad de los Datos",
+      "content": "Implementamos medidas de seguridad con estándares de la industria para proteger tu información personal:",
+      "items": [
+        "Cifrado: Todos los datos están cifrados durante la transmisión y en reposo",
+        "Controles de Acceso: Controles estrictos limitan quién puede acceder a tus datos",
+        "Auditorías Regulares: Revisamos y actualizamos nuestras prácticas de seguridad con regularidad",
+        "Infraestructura Segura: Utilizamos proveedores de nube confiables con seguridad de nivel empresarial"
+      ]
+    },
+    "yourRights": {
+      "title": "Tus Derechos y Opciones",
+      "items": [
+        "Acceso a los Datos: Puedes ver y descargar tus materiales de estudio y datos de cuenta en cualquier momento desde la app.",
+        "Eliminación de Datos: Puedes solicitar la eliminación completa de tu cuenta y todos los datos asociados contactándonos.",
+        "Control de la Cuenta: Puedes modificar la configuración de tu cuenta, preferencias y controles de privacidad dentro de la app.",
+        "Desactivación: Puedes desactivar la analítica y la recopilación de datos no esenciales en la configuración de la app."
+      ]
+    },
+    "childrenPrivacy": {
+      "title": "Privacidad de los Menores",
+      "content": "StudyOS está diseñado para usuarios mayores de 13 años. No recopilamos conscientemente información personal de ningún usuario menor de 13 años. Si nos damos cuenta de que hemos recopilado información personal de un usuario menor de 13 años, eliminaremos dicha información de inmediato."
+    },
+    "changes": {
+      "title": "Cambios en Esta Política de Privacidad",
+      "content": "Podemos actualizar esta Política de Privacidad de vez en cuando. Te notificaremos cualquier cambio publicando la nueva versión en esta página y actualizando la fecha de \"Última actualización\". Te recomendamos revisar periódicamente esta política para estar al tanto de los cambios."
+    },
+    "contact": {
+      "title": "Contáctanos",
+      "content": "Si tienes alguna pregunta sobre esta Política de Privacidad, tus datos o tus derechos, no dudes en contactarnos:",
+      "email": "business@studyosapp.app",
+      "support": "business@studyosapp.app",
+      "additionalInfo": "Estamos aquí para ayudarte y responderemos tus consultas con prontitud."
+    },
+    "conclusion": "Gracias por elegir StudyOS. Estamos comprometidos a proteger tu privacidad mientras te ayudamos a alcanzar tus metas de aprendizaje."
+  }
+  },
+  "terms": {
+  "meta": {
+    "title": "Términos de Servicio - StudyOS",
+    "description": "Lea los términos y condiciones para usar StudyOS"
+  },
+  "header": {
+    "title": "Términos de Servicio",
+    "subtitle": "Por favor, lea estos términos cuidadosamente",
+    "backText": "Volver a StudyOS"
+  },
+  "lastUpdated": {
+    "effective": "26 de junio de 2025",
+    "updated": "26 de junio de 2025",
+    "effectiveLabel": "Fecha de entrada en vigor:",
+    "updatedLabel": "Última actualización:"
+  },
+  "sections": {
+    "introduction": {
+      "title": "¡Bienvenido a StudyOS!",
+      "content": "Estos Términos de Servicio (\"Términos\") rigen su acceso y uso de los servicios, software y sitio web de StudyOS (colectivamente, los \"Servicios\") proporcionados por StudyOS, Inc. (\"StudyOS\", \"nosotros\" o \"nuestro\")."
+    },
+    "acceptance": {
+      "title": "1. Aceptación del Acuerdo",
+      "content": "Al usar nuestros Servicios, usted indica su aceptación de este Acuerdo, que se convierte en un contrato vinculante entre usted y StudyOS. Usted declara que tiene la capacidad legal para aceptar estos Términos y confirma que es mayor de edad para formar un contrato vinculante. Usted es responsable de asegurarse de que todas las personas que accedan a los Servicios a través de su cuenta conozcan y cumplan estos Términos. StudyOS se reserva el derecho de revisar y actualizar estos Términos periódicamente a su sola discreción. Todos los cambios entran en vigor inmediatamente al ser publicados. Su uso continuado de los Servicios tras la publicación de Términos revisados implica que acepta y está de acuerdo con los cambios."
+    },
+    "accountRegistration": {
+      "title": "13. Seguridad de la Cuenta",
+      "content": "Usted es responsable de mantener la confidencialidad de su cuenta y de restringir el acceso a su dispositivo. Usted acepta la responsabilidad por todas las actividades que ocurran bajo su cuenta. Si cree que alguien ha accedido a su cuenta sin autorización, debe notificarnos inmediatamente."
+    },
+    "subscriptions": {
+      "title": "4. Sistema de Suscripción",
+      "content": "StudyOS opera bajo un modelo de suscripción con las siguientes condiciones:",
+      "billing": {
+        "title": "Facturación",
+        "content": "Las suscripciones están disponibles semanalmente, mensualmente o anualmente. Las suscripciones se renuevan automáticamente a menos que sean canceladas. Los precios de suscripción pueden variar según el mercado y promociones."
+      },
+      "cancellation": {
+        "title": "Cancelación",
+        "content": "Puede cancelar su suscripción en cualquier momento. Eliminar su cuenta no cancela automáticamente la suscripción; debe cancelarla manualmente. No hay reembolsos por periodos parciales de suscripción tras la cancelación. Los precios futuros de suscripción no están garantizados."
+      }
+    },
+    "services": {
+      "title": "3. Servicios de StudyOS",
+      "content": "Nuestros Servicios permiten a los usuarios transformar imágenes y documentos PDF subidos en tarjetas de estudio interactivas usando tecnología de IA. Los Servicios ofrecen reconocimiento de contenido potenciado por IA, generación de tarjetas y creación de material de estudio. Puede usar la versión gratuita o acceder a funcionalidades premium mediante nuestro sistema de suscripción. Las suscripciones son necesarias para acceder a ciertas funciones y pueden adquirirse según las tarifas vigentes."
+    },
+    "intellectualProperty": {
+      "title": "5. Propiedad Intelectual",
+      "content": "Todos los derechos de propiedad intelectual relacionados con la aplicación y su contenido original pertenecen a StudyOS o sus licenciantes. Está prohibida la reproducción, distribución o modificación no autorizada de cualquier contenido de la aplicación. StudyOS retiene todos los derechos sobre la plataforma y sus funcionalidades. El contenido que usted suba sigue siendo de su propiedad, pero nos concede una licencia para procesarlo y mostrarlo según sea necesario para proporcionar el servicio."
+    },
+    "thirdPartyRights": {
+      "title": "6. Cumplimiento de Derechos de Terceros",
+      "content": "StudyOS declara que la aplicación no infringe derechos de propiedad intelectual de terceros. En caso de cualquier reclamación de un tercero sobre una supuesta infracción, StudyOS será el único responsable de la investigación, defensa, acuerdo y resolución de dicha reclamación."
+    },
+    "thirdPartyContent": {
+      "title": "7. Contenido de Terceros",
+      "content": "Nuestra aplicación puede incluir contenido, datos o enlaces proporcionados por terceros. StudyOS no se responsabiliza de la exactitud o integridad de dicho contenido y los usuarios acceden bajo su propio riesgo."
+    },
+    "conductRules": {
+      "title": "8. Normas de Conducta y Uso Aceptable",
+      "content": "Al usar nuestros servicios, usted acepta no:",
+      "items": [
+        "Usar los Servicios de manera que viole cualquier ley aplicable",
+        "Infringir derechos de propiedad intelectual",
+        "Recolectar información mediante herramientas automatizadas",
+        "Intentar acceder sin autorización a áreas restringidas",
+        "Introducir virus o código malicioso",
+        "Interferir con el uso de otros usuarios",
+        "Usar la aplicación para actividades ilegales, difamatorias, obscenas o que infrinjan derechos de terceros"
+      ]
+    },
+    "customerData": {
+      "title": "9. Datos del Cliente",
+      "content": "Usted es responsable de cualquier contenido que suba o registre a través de los Servicios. Al usar nuestros Servicios, garantiza que tiene los derechos necesarios sobre el contenido que proporciona y que este no: contiene material difamatorio u objetable, promueve discriminación o violencia, infringe derechos de terceros, divulga información confidencial ni contiene material dañino o ilegal."
+    },
+    "recordings": {
+      "title": "10. Grabaciones y Consentimiento",
+      "content": "Es su responsabilidad obtener el consentimiento necesario antes de subir contenido que involucre a terceros. Las leyes sobre el uso de contenido varían según la jurisdicción."
+    },
+    "payments": {
+      "title": "11. Pagos",
+      "content": "Si desea comprar suscripciones, puede que se le solicite proporcionar información relevante para la compra, incluyendo número de tarjeta de crédito, fecha de vencimiento y dirección de facturación. Usted declara y garantiza que tiene el derecho legal para usar cualquier tarjeta o método de pago y que la información proporcionada es verdadera, correcta y completa."
+    },
+    "refundPolicy": {
+      "title": "12. Política de Reembolsos",
+      "content": "Todas las compras son finales. No se otorgarán reembolsos por tarifas de suscripción u otros cargos."
+    },
+    "termination": {
+      "title": "14. Terminación",
+      "content": "Podemos suspender o cancelar su acceso a los Servicios en cualquier momento si usted viola estos términos. No se reembolsará el tiempo no utilizado de la suscripción en caso de terminación por incumplimiento."
+    },
+    "limitation": {
+      "title": "15. Limitación de Responsabilidad",
+      "content": "StudyOS proporciona los Servicios \"tal cual\" sin garantías de ningún tipo. No somos responsables por pérdidas o daños derivados del uso de nuestros Servicios, incluyendo pérdida de datos o inexactitudes en contenido generado por IA. StudyOS no será responsable por daños directos, indirectos, incidentales o consecuentes derivados del uso o imposibilidad de uso de la aplicación."
+    },
+    "indemnification": {
+      "title": "16. Indemnización",
+      "content": "Usted acepta indemnizar y mantener indemne a StudyOS contra cualquier reclamación derivada de su uso de los Servicios o incumplimiento de estos términos."
+    },
+    "internationalUse": {
+      "title": "17. Uso Internacional",
+      "content": "Usted reconoce que el acceso a los Servicios puede no ser legal bajo ciertas jurisdicciones nacionales, estatales, territoriales u otras. Usted es responsable de cumplir con todas las leyes y regulaciones locales aplicables sobre el uso de los Servicios."
+    },
+    "forceMajeure": {
+      "title": "18. Fuerza Mayor",
+      "content": "StudyOS no será responsable por retrasos o incumplimientos debidos a causas fuera de su control razonable, incluyendo actos de guerra, terrorismo, pandemias, fallos de Internet o telecomunicaciones, cortes de energía y desastres naturales."
+    },
+    "serviceModifications": {
+      "title": "19. Modificaciones del Servicio",
+      "content": "StudyOS puede modificar, suspender o discontinuar cualquier aspecto del Servicio en cualquier momento, incluyendo disponibilidad de funciones o contenido. También podemos imponer límites o restringir acceso parcial o total sin previo aviso ni responsabilidad."
+    },
+    "appleTerms": {
+      "title": "20. Términos Específicos para Apple",
+      "content": "Para usuarios que acceden a la aplicación desde dispositivos Apple, usted y StudyOS reconocen que este Acuerdo es solo entre StudyOS y el usuario final, no con Apple. StudyOS, no Apple, es el único responsable de la Aplicación Licenciada y su contenido. Apple y sus subsidiarias son beneficiarios terceros de estos Términos."
+    },
+    "governingLaw": {
+      "title": "21. Ley Aplicable",
+      "content": "Estos términos se rigen por las leyes de España. Cualquier disputa se resolverá exclusivamente en los tribunales de España."
+    },
+    "contact": {
+      "title": "22. Contacto",
+      "content": "Si tiene preguntas sobre estos términos, contáctenos en:",
+      "email": "business@studyosapp.app",
+      "supportEmail": "business@studyosapp.app"
+    },
+    "conclusion": "Estos términos constituyen el acuerdo completo entre usted y StudyOS respecto al uso de nuestros Servicios."
+  }
+  },
+  "footer": {
+    "links": {
+      "home": "Inicio",
+      "privacy": "Privacidad",
+      "terms": "Términos",
+      "support": "Soporte",
+      "contact": "Contacto"
+    },
+    "copyright": "© 2025 StudyOS. Todos los derechos reservados."
+  },
+  "common": {
+    "downloadAppStore": "Descargar en el App Store"
+  },
+  "rating": {
+    "lovedBy": "Amados por",
+    "millionStudents": "+1 millón de estudiantes"
+  }
+} 

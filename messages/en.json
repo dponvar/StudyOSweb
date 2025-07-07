@@ -1,0 +1,347 @@
+{
+  "meta": {
+    "title": "StudyOS - Never study the same way again",
+    "description": "Transform your learning experience with AI-powered study tools. Create notes, flashcards, and quizzes instantly from any content."
+  },
+  "header": {
+    "title": "StudyOS",
+    "subtitle": "Never study the same way again",
+    "description": "Transform your learning experience with AI-powered study tools. Create notes, flashcards, and quizzes instantly from any content."
+  },
+  "features": {
+    "title": "Transform your learning with AI",
+    "items": {
+      "upload": {
+        "title": "Upload & Create",
+        "description": "Simply upload photos, documents, or gallery files and watch AI instantly transform them into smart flashcards"
+      },
+      "flashcards": {
+        "title": "Smart Flashcards",
+        "description": "AI-powered flashcards automatically generated from your uploaded content with key concepts and definitions"
+      },
+      "login": {
+        "title": "Secure Login",
+        "description": "Easy sign-in with Apple ID or Google account - your data is safely synchronized across all devices"
+      },
+      "account": {
+        "title": "Account Management",
+        "description": "Manage your profile, track your study progress, and organize your flashcard collections effortlessly"
+      },
+      "mcq": {
+        "title": "MCQ Creation",
+        "comingSoon": "COMING SOON",
+        "description": "Multiple choice questions will be automatically generated from your content for enhanced testing and practice"
+      },
+      "summaries": {
+        "title": "Smart Summaries",
+        "comingSoon": "COMING SOON",
+        "description": "AI will create concise, comprehensive summaries of your uploaded documents and study materials"
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Students love StudyOS",
+    "items": {
+      "sarah": {
+        "text": "I just upload my lecture slides and StudyOS creates perfect flashcards instantly. My study time has been cut in half!",
+        "author": "Sarah M. - University of California"
+      },
+      "mike": {
+        "text": "Taking a photo of my textbook pages and getting flashcards immediately is a game-changer. Perfect for last-minute studying.",
+        "author": "Mike T. - Harvard University"
+      },
+      "emma": {
+        "text": "The Apple ID login makes it so easy to access my flashcards anywhere. I can study on my phone, iPad, and Mac seamlessly.",
+        "author": "Emma L. - Stanford University"
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready to transform your studies?",
+    "description": "Join thousands of students who have already improved their grades with StudyOS"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Answers to common questions about StudyOS",
+    "items": {
+      "what": {
+        "question": "What is StudyOS?",
+        "answer": "StudyOS is an AI-powered study application that transforms your learning materials into interactive flashcards. Simply upload photos, documents, PDFs, or any study material, and our advanced AI instantly extracts key concepts and creates smart flashcards for effective learning. Perfect for students who want to study more efficiently and retain information better."
+      },
+      "how": {
+        "question": "How does the AI flashcard creation work?",
+        "answer": "Our AI analyzes your uploaded content using advanced machine learning algorithms to identify key concepts, definitions, formulas, and important facts. It then creates well-structured flashcards with questions on one side and answers on the other. The AI understands context and creates meaningful study cards that help reinforce your learning objectives."
+      },
+      "pricing": {
+        "question": "Is StudyOS free? What are the pricing options?",
+        "answer": "StudyOS offers flexible subscription plans to fit your study needs. Choose from weekly, monthly, or yearly subscriptions with full access to all features. You can cancel anytime with no commitment. We also offer a free trial so you can experience the power of AI-generated flashcards before subscribing."
+      },
+      "devices": {
+        "question": "Can I use StudyOS on multiple devices?",
+        "answer": "Absolutely! With your Apple ID or Google account login, all your flashcards and study progress automatically sync across all your devices. Study on your iPhone during commute, review on your iPad at home, or access your materials on any device. Your learning never stops, regardless of which device you're using."
+      },
+      "accuracy": {
+        "question": "How accurate are the AI-generated flashcards?",
+        "answer": "Our AI has been trained on millions of educational materials and achieves high accuracy in extracting key information. The quality depends on the clarity of your uploaded content - clear photos and well-formatted documents produce the best results. You can always edit and customize the generated flashcards to match your specific learning preferences and add personal insights."
+      },
+      "formats": {
+        "question": "What file formats can I upload?",
+        "answer": "StudyOS currently supports images (JPG, PNG, HEIC) and PDF documents. You can upload photos from your camera, gallery, or any image file, as well as PDF documents. Whether it's handwritten notes, textbook pages, lecture slides, or study materials, our AI can process these formats and create flashcards. More file formats like Word documents and PowerPoint slides are coming soon!"
+      }
+    }
+  },
+  "privacy": {
+    "meta": {
+      "title": "Privacy Policy - StudyOS",
+      "description": "Learn how StudyOS protects your privacy and handles your data"
+    },
+    "header": {
+      "title": "Privacy Policy",
+      "subtitle": "Your privacy is important to us",
+      "backText": "Back to StudyOS"
+    },
+    "lastUpdated": {
+      "effective": "June 26, 2025",
+      "updated": "June 26, 2025",
+      "effectiveLabel": "Effective:",
+      "updatedLabel": "Last updated:"
+    },
+    "sections": {
+      "introduction": {
+        "title": "Introduction",
+        "content": "Welcome to StudyOS! This Privacy Policy describes how we collect, use, and share your personal information when you use our iOS application and related services (collectively, \"StudyOS\", also referred to as \"StudyOS: AI Study Assistant\", \"StudyOS AI Flashcards\", or any related phrase)."
+      },
+      "whoWeAre": {
+        "title": "Who We Are",
+        "content": "StudyOS is owned and operated by StudyOS, Inc. We are a dedicated team focused on providing innovative AI-powered study tools to help students learn more effectively and efficiently."
+      },
+      "informationWeCollect": {
+        "title": "Information We Collect",
+        "studyMaterials": {
+          "title": "1. Study Materials and Content",
+          "items": [
+            "Uploaded Files: StudyOS stores the images, PDFs, and other study materials you upload to create flashcards and study content.",
+            "Generated Flashcards: We store the AI-generated flashcards, notes, and study materials created from your uploaded content so you can access them anytime.",
+            "Study Progress: We track your study sessions, progress, and performance to provide personalized learning insights."
+          ]
+        },
+        "accountInfo": {
+          "title": "2. Account Information",
+          "items": [
+            "Authentication Data: When you sign in with Apple ID or Google account, we receive basic profile information as permitted by these services.",
+            "Profile Settings: Any preferences, settings, or profile information you choose to provide within the app."
+          ]
+        },
+        "appFunctionality": {
+          "title": "3. App Functionality and Analytics",
+          "items": [
+            "Usage Analytics: We collect information about how you use StudyOS, including features used, study time, and app performance data.",
+            "Device Information: Basic device information necessary for app functionality and optimization.",
+            "Crash Reports: Technical data to help us identify and fix app issues."
+          ]
+        }
+      },
+      "howWeUseInfo": {
+        "title": "How We Use Your Information",
+        "items": [
+          "AI Processing: Your uploaded content is processed by our AI systems to generate flashcards, summaries, and study materials.",
+          "Sync Across Devices: Your study materials and progress are synchronized across your devices when you're signed in.",
+          "Personalization: We use your study patterns to provide personalized recommendations and optimize your learning experience.",
+          "Service Improvement: Analytics help us understand user needs and improve StudyOS features and performance.",
+          "Support: We may use your information to provide customer support and respond to your inquiries."
+        ]
+      },
+      "thirdPartyServices": {
+        "title": "Third-Party Services",
+        "content": "We use trusted third-party services to support our operations, including:",
+        "items": [
+          "Apple Sign-In — Apple Privacy Policy",
+          "Google Sign-In — Google Privacy Policy",
+          "RevenueCat (Subscriptions) — RevenueCat Privacy Policy",
+          "App Analytics Services — Industry-standard analytics providers with strict data protection standards"
+        ],
+        "additionalContent": "These third parties may collect and process your data in accordance with their privacy policies. We ensure all partners meet high privacy and security standards."
+      },
+      "dataSecurity": {
+        "title": "Data Security",
+        "content": "We implement industry-standard security measures to protect your personal information:",
+        "items": [
+          "Encryption: All data is encrypted in transit and at rest",
+          "Access Controls: Strict access controls limit who can view your data",
+          "Regular Audits: We regularly review and update our security practices",
+          "Secure Infrastructure: We use trusted cloud providers with enterprise-grade security"
+        ]
+      },
+      "yourRights": {
+        "title": "Your Rights and Choices",
+        "items": [
+          "Data Access: You can view and download your study materials and account data at any time through the app.",
+          "Data Deletion: You can request complete deletion of your account and all associated data by contacting us.",
+          "Account Control: You can modify your account settings, preferences, and privacy controls within the app.",
+          "Opt-Out: You can disable analytics and non-essential data collection in your app settings."
+        ]
+      },
+      "childrenPrivacy": {
+        "title": "Children's Privacy",
+        "content": "StudyOS is designed for users aged 13 and older. We do not knowingly collect personal information from an user under 13. If we become aware that we have collected personal information from an user under 13, we will promptly delete such information."
+      },
+      "changes": {
+        "title": "Changes to This Privacy Policy",
+        "content": "We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the \"Last updated\" date. We encourage you to review this Privacy Policy periodically for any changes."
+      },
+      "contact": {
+        "title": "Contact Us",
+        "content": "If you have any questions about this Privacy Policy, your data, or your rights, please don't hesitate to contact us:",
+        "email": "business@studyosapp.app",
+        "support": "business@studyosapp.app",
+        "additionalInfo": "We're here to help and will respond to your inquiries promptly."
+      },
+      "conclusion": "Thank you for choosing StudyOS. We're committed to protecting your privacy while helping you achieve your learning goals."
+    }
+  },
+  "terms": {
+    "meta": {
+      "title": "Terms of Service - StudyOS",
+      "description": "Read the terms and conditions for using StudyOS"
+    },
+    "header": {
+      "title": "Terms of Service",
+      "subtitle": "Please read these terms carefully",
+      "backText": "Back to StudyOS"
+    },
+    "lastUpdated": {
+      "effective": "June 26, 2025",
+      "updated": "June 26, 2025",
+      "effectiveLabel": "Effective Date:",
+      "updatedLabel": "Last updated:"
+    },
+    "sections": {
+      "introduction": {
+        "title": "Welcome to StudyOS!",
+        "content": "These Terms of Service (\"Terms\") govern your access and use of StudyOS services, software, and website (collectively, \"Services\") provided by StudyOS, Inc. (\"StudyOS\", \"we\", \"us\" or \"our\")."
+      },
+      "acceptance": {
+        "title": "1. Acceptance of Agreement",
+        "content": "By using our Services, you indicate your acceptance of this Agreement, which becomes a binding contract between you and StudyOS. You represent that you have the legal capacity to accept these Terms and confirm that you are of sufficient age to form a binding contract. You are responsible for ensuring that all persons who access the Services through your account know and comply with these Terms. StudyOS reserves the right to review and update these Terms from time to time at its sole discretion. All changes take effect immediately when published. Your continued use of the Services after posting revised Terms means you accept and agree to the changes."
+      },
+      "accountRegistration": {
+        "title": "13. Account Security",
+        "content": "You are responsible for maintaining the confidentiality of your account and restricting access to your device. You accept responsibility for all activities under your account. If you believe someone has accessed your account without authorization, you must notify us immediately."
+      },
+      "subscriptions": {
+        "title": "4. Subscription System",
+        "content": "StudyOS operates on a subscription-based model with the following conditions:",
+        "billing": {
+          "title": "Billing",
+          "content": "Subscriptions are available on weekly, monthly, or yearly basis. Subscriptions are automatically renewable unless cancelled. Subscription prices may vary according to market and promotions."
+        },
+        "cancellation": {
+          "title": "Cancellation",
+          "content": "You can cancel your subscription at any time. Deleting your account does not automatically cancel your subscription - you must cancel it manually. No refunds for partial subscription periods after cancellation. Future subscription prices are not guaranteed."
+        }
+      },
+      "services": {
+        "title": "3. StudyOS Services",
+        "content": "Our Services allow users to transform uploaded images and PDF documents into interactive flashcards using AI technology. The Services provide AI-powered content recognition, flashcard generation, and study material creation. You can choose to use the free version of the Services or access premium functionality through our subscription system. Subscriptions are required to access certain functionalities and can be purchased according to current rates."
+      },
+      "intellectualProperty": {
+        "title": "5. Intellectual Property",
+        "content": "All intellectual property rights related to the application and its original content are owned by StudyOS or its licensors. Unauthorized reproduction, distribution, or modification of any application content is prohibited. StudyOS retains all rights to the platform and its functionalities. Content you upload remains your property, but you grant us a license to process and display it as necessary to provide the service."
+      },
+      "thirdPartyRights": {
+        "title": "6. Third-Party Rights Compliance",
+        "content": "StudyOS declares that the application does not infringe third-party intellectual property rights. In case of any claim by a third party that the application infringes their intellectual property rights, StudyOS will be solely responsible for the investigation, defense, settlement, and release of such claim."
+      },
+      "thirdPartyContent": {
+        "title": "7. Third-Party Content",
+        "content": "Our application may include content, data, or links provided by third parties. StudyOS is not responsible for the accuracy or completeness of such content, and users access it at their own risk."
+      },
+      "conductRules": {
+        "title": "8. Conduct Rules and Acceptable Use",
+        "content": "By using our services, you agree not to:",
+        "items": [
+          "Use the Services in a way that violates any applicable law",
+          "Infringe intellectual property rights",
+          "Collect information using automated tools",
+          "Attempt unauthorized access to restricted areas",
+          "Introduce viruses or malicious code",
+          "Interfere with other users' use",
+          "Use the application for illegal, defamatory, obscene activities or those that infringe third-party rights"
+        ]
+      },
+      "customerData": {
+        "title": "9. Customer Data",
+        "content": "You are responsible for any content you upload or record through the Services. By using our Services, you warrant that you have the necessary rights to the content you provide and that it does not: contain defamatory or objectionable material, promote discrimination or violence, infringe third-party rights, disclose confidential information, or contain harmful or illegal material."
+      },
+      "recordings": {
+        "title": "10. Recordings and Consent",
+        "content": "It is your responsibility to obtain necessary consent before uploading content that involves third parties. Laws regarding content usage vary by jurisdiction."
+      },
+      "payments": {
+        "title": "11. Payments",
+        "content": "If you wish to purchase subscriptions, you may be asked to provide certain information relevant to your purchase, including your credit card number, credit card expiration date, and billing address. You represent and warrant that you have the legal right to use any credit card(s) or other payment method(s) and that the information you provide is true, correct, and complete."
+      },
+      "refundPolicy": {
+        "title": "12. Refund Policy",
+        "content": "All purchases are final. No refunds will be provided for subscription fees or other charges."
+      },
+      "termination": {
+        "title": "14. Termination",
+        "content": "We may suspend or terminate your access to the Services at any time if you violate these terms. Unused subscription time will not be refunded in case of termination for breach."
+      },
+      "limitation": {
+        "title": "15. Limitation of Liability",
+        "content": "StudyOS provides the Services \"as is\" without warranties of any kind. We are not responsible for losses or damages arising from the use of our Services, including data loss or inaccuracies in AI-generated content. StudyOS will not be liable for direct, indirect, incidental, or consequential damages resulting from use or inability to use the application."
+      },
+      "indemnification": {
+        "title": "16. Indemnification",
+        "content": "You agree to indemnify and hold StudyOS harmless against any claims arising from your use of the Services or violation of these terms."
+      },
+      "internationalUse": {
+        "title": "17. International Use",
+        "content": "You acknowledge that access to Services may not be legal under certain national, state, territorial, or other jurisdictions. You are responsible for compliance with all applicable local laws and regulations regarding use of the Services."
+      },
+      "forceMajeure": {
+        "title": "18. Force Majeure",
+        "content": "StudyOS will not be liable for any delay or failure in performance resulting from causes beyond its reasonable control, including acts of war, terrorism, pandemics, Internet or telecommunications failures, power outages, and natural disasters."
+      },
+      "serviceModifications": {
+        "title": "19. Service Modifications",
+        "content": "StudyOS may modify, suspend, or discontinue any aspect of the Service at any time, including availability of any feature or content. We may also impose limits on certain features or restrict access to parts or all of the Service without notice or liability."
+      },
+      "appleTerms": {
+        "title": "20. Apple-Specific Terms",
+        "content": "For users accessing the application through Apple devices, both you and StudyOS acknowledge that this Agreement is between StudyOS and the end user only, not with Apple. StudyOS, not Apple, is solely responsible for the Licensed Application and its content. Apple and its subsidiaries are third-party beneficiaries of these Terms."
+      },
+      "governingLaw": {
+        "title": "21. Governing Law",
+        "content": "These terms are governed by the laws of Spain. Any dispute will be resolved exclusively in the courts of Spain."
+      },
+      "contact": {
+        "title": "22. Contact",
+        "content": "If you have questions about these terms, contact us at:",
+        "email": "business@studyosapp.app",
+        "supportEmail": "business@studyosapp.app"
+      },
+      "conclusion": "These terms constitute the complete agreement between you and StudyOS regarding the use of our Services."
+
+    }
+  },
+  "footer": {
+    "links": {
+      "home": "Home",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "support": "Support",
+      "contact": "Contact"
+    },
+    "copyright": "© 2025 StudyOS. All rights reserved."
+  },
+  "common": {
+    "downloadAppStore": "Download on the App Store"
+  },
+  "rating": {
+    "lovedBy": "Loved by",
+    "millionStudents": "+1 million students"
+  }
+} 
