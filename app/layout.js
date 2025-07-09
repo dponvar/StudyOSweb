@@ -16,6 +16,15 @@ export const metadata = {
   description: "Transform your study materials into flashcards and summaries",
   icons: {
     icon: '/favicon.ico',
+    apple: '/apple-touch-icon.png',
+    other: [
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '192x192',
+        url: '/android-chrome-192x192.png',
+      },
+    ],
   },
 };
 
