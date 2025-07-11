@@ -82,7 +82,7 @@ export default function Home() {
           <p className="description">{t('header.description')}</p>
           
           <div className="download-buttons">
-            <a href="#" className="app-store-btn">
+            <a href="https://apps.apple.com/es/app/studyos/id6747879382" className="app-store-btn">
               <Image 
                 src={`/${locale}.svg`} 
                 alt={t('common.downloadAppStore')} 
@@ -164,7 +164,7 @@ export default function Home() {
           <h2>{t('cta.title')}</h2>
           <p>{t('cta.description')}</p>
           <div className="download-buttons">
-            <a href="#" className="app-store-btn">
+            <a href="https://apps.apple.com/es/app/studyos/id6747879382" className="app-store-btn">
               <Image 
                 src={`/${locale}.svg`} 
                 alt={t('common.downloadAppStore')} 
