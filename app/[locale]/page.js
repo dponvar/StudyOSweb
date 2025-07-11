@@ -94,8 +94,8 @@ export default function Home() {
           </div>
           
           {/* Rating integrated in header */}
-          <div className="header-rating">
-            <div className="rating-content">
+          <div className="header-rating" style={{textAlign: 'center', marginTop: '2rem'}}>
+            <div className="rating-content" style={{display: 'flex', justifyContent: 'center', alignItems: 'center', flexWrap: 'wrap', gap: '1rem'}}>
               <div className="rating-avatars">
                 <Image src="/user1.webp" alt="User 1" width={32} height={32} className="avatar" />
                 <Image src="/user2.webp" alt="User 2" width={32} height={32} className="avatar" />
@@ -106,10 +106,10 @@ export default function Home() {
                 <span className="rating-loved">{t('rating.lovedBy')}</span> <span className="rating-million">{t('rating.millionStudents')}</span>
               </div>
             </div>
-            <div className="rating-score">
+            <div className="rating-score" style={{display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '0.5rem', marginTop: '1rem'}}>
               <span className="rating-laurel">🏆</span>
               <span className="rating-value">4.9</span>
-              <span className="rating-stars">★★★★★</span>
+              <span className="rating-stars" style={{color: '#FBBF24', fontSize: '1.1em'}}>★★★★★</span>
             </div>
           </div>
         </div>
