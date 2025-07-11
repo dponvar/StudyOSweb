@@ -92,33 +92,28 @@ export default function Home() {
               />
             </a>
           </div>
+          
+          {/* Rating integrated in header */}
+          <div className="header-rating">
+            <div className="rating-content">
+              <div className="rating-avatars">
+                <Image src="/user1.webp" alt="User 1" width={32} height={32} className="avatar" />
+                <Image src="/user2.webp" alt="User 2" width={32} height={32} className="avatar" />
+                <Image src="/user3.webp" alt="User 3" width={32} height={32} className="avatar" />
+                <Image src="/user4.webp" alt="User 4" width={32} height={32} className="avatar" />
+              </div>
+              <div className="rating-text">
+                <span className="rating-loved">{t('rating.lovedBy')}</span> <span className="rating-million">{t('rating.millionStudents')}</span>
+              </div>
+            </div>
+            <div className="rating-score">
+              <span className="rating-laurel">🏆</span>
+              <span className="rating-value">4.9</span>
+              <span className="rating-stars">★★★★★</span>
+            </div>
+          </div>
         </div>
       </header>
-
-      {/* Rating/Testimonial Bar */}
-      <section className="rating-bar">
-        <div className="rating-avatars">
-          <Image src="/user1.webp" alt="User 1" width={36} height={36} className="avatar" />
-          <Image src="/user2.webp" alt="User 2" width={36} height={36} className="avatar" />
-          <Image src="/user3.webp" alt="User 3" width={36} height={36} className="avatar" />
-          <Image src="/user4.webp" alt="User 4" width={36} height={36} className="avatar" />
-        </div>
-        <div className="rating-text">
-          <span className="rating-loved">{t('rating.lovedBy')}</span> <span className="rating-million">{t('rating.millionStudents')}</span>
-        </div>
-        <div className="rating-divider" />
-        <div className="rating-score">
-          <span className="rating-laurel">&#127942;</span>
-          <span className="rating-value">4.9</span>
-          <span className="rating-stars" aria-label="5 estrellas">
-            <span style={{color:'#FBBF24', fontSize:'1.1em'}}>★</span>
-            <span style={{color:'#FBBF24', fontSize:'1.1em'}}>★</span>
-            <span style={{color:'#FBBF24', fontSize:'1.1em'}}>★</span>
-            <span style={{color:'#FBBF24', fontSize:'1.1em'}}>★</span>
-            <span style={{color:'#FBBF24', fontSize:'1.1em'}}>★</span>
-          </span>
-        </div>
-      </section>
 
       {/* Features Section */}
       <section className="features">
